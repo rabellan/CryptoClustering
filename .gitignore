@@ -10,7 +10,7 @@ __pycache__/
 **/.DS_Store
 
 # Ignore backup copy of original notebook
-Crypto_Clustering_starter_code_copy
+Crypto_Clustering_starter_code_copy.ipynb
 
 # Distribution / packaging
 .Python
